@@ -27,9 +27,26 @@ A responsive, modern e-commerce landing page built for an online grocery and pet
 ## 📂 Project Structure
 
 ```text
-├── index.html          # Main HTML document
-├── nav-logo.png        # Header logo
-├── grocery-basket.png  # Newsletter card image
-├── onion.png           # Product images
-├── footer-logo.png     # Footer logo
-└── README.md           # Project documentation
+├── assets/                  
+│   ├── dawat-logo.png
+│   ├── delivery.png
+│   ├── footer-logo.png
+│   ├── gate-logo.png
+│   ├── grocery-basket.png
+│   ├── Group 9181.png
+│   ├── Hero Section 1.png
+│   ├── Hero Section-large...
+│   ├── index.html           
+│   ├── Mask group.png
+│   ├── nav-logo.png
+│   ├── offers-1.png
+│   ├── offers-2.png
+│   ├── onion.png
+│   ├── popular.png
+│   ├── potato.png
+│   ├── products.png
+│   ├── service.png
+│   ├── tailwind.init.css
+│   └── tomato.png
+├── .gitattributes
+└── README.md                
